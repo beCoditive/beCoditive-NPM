@@ -1,0 +1,27 @@
+{
+  "name": "becoditive",
+  "version": "0.0.3",
+  "description": "a nodejs wrapper for becoditive api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beCoditive/beCoditive-NPM.git"
+  },
+  "keywords": [
+    "becoditive",
+    "api",
+    "memes",
+    "images",
+    "text",
+    "jokes"
+  ],
+  "author": "beCoditive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beCoditive/beCoditive-NPM/issues"
+  },
+  "homepage": "https://github.com/beCoditive/beCoditive-NPM#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
